@@ -16,7 +16,7 @@
   <dependencies>
     <dependency>
       <groupId>org.bevj</groupId>
-      <artifactId>bevj-core</artifactId>
+      <artifactId>bevj-app</artifactId>
       <version>1.0-SNAPSHOT</version>
     </dependency>
   </dependencies>

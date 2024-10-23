@@ -1,4 +1,4 @@
-package org.bevj.toolkit;
+package org.bevj.app.toolkit;
 
 import java.awt.Toolkit;
 import java.awt.Dimension;

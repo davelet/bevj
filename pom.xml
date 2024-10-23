@@ -12,7 +12,7 @@
     <java.version>21</java.version>
   </properties>
   <modules>
-    <module>bevj-core</module>
+    <module>bevj-app</module>
     <module>bevj-examples</module>
   </modules>
 
