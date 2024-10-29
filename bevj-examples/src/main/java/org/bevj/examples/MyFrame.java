@@ -1,4 +1,4 @@
-package org.bevj;
+package org.bevj.examples;
 
 import javax.swing.*;
 import java.awt.*;

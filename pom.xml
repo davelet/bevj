@@ -13,6 +13,7 @@
   </properties>
   <modules>
     <module>bevj-app</module>
+    <module>bevj-utils</module>
     <module>bevj-examples</module>
   </modules>
 
