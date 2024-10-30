@@ -17,7 +17,7 @@ public abstract class Plugin {
         return getClass().getSimpleName();
     }
 
-    public boolean isUnique() {
+    public boolean is_unique() {
         return true;
     }
 }
